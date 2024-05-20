@@ -1,1 +1,14 @@
-This is our project
+Social engineering is the manipulation of individuals to obtain their sensitive
+information. As the number of individuals being targeted by social engineering continues to
+increase, there is a growing need for online awareness programs. Thus, our team decided to
+develop a simple game on the awareness of social engineering. The game presents couple real-world
+scenarios of social engineering attacks by email, prompting users to interact with these scenarios.
+Ultimately, the game aims to increase individuals’ awareness and safeguard them from online threats in
+an enjoyable, interactive experience.Our game is for spreading awareness for the users when
+receiving emils.In our game we used Blender to create the character. Our character is a 3D
+character. The character appears to the user when responding to an email. Our goal with
+CyberSafe is to warn the user against clicking on suspicious emails and to verify the
+authenticity of the email before clicking on it. Therefore, this is more educational than
+entertaining. For the environment, we used Unity. The first environment is the user 
+in the office at work. and the second environment is the useris an aramco employeer at
+home in his vecation.
